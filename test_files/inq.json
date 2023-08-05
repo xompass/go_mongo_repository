@@ -1,0 +1,7 @@
+{
+  "where": {
+    "name": {
+      "inq": ["test1", "test2"]
+    }
+  }
+}
